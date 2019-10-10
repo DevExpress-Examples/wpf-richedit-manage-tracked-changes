@@ -1,4 +1,4 @@
-﻿<dx:ThemedWindow x:Class="DXRichEdit_TrackChanges.MainWindow" mc:Ignorable="d" Title="Rich Text Editor" Height="450" Width="800" 
+<dx:ThemedWindow x:Class="DXRichEdit_TrackChanges.MainWindow" mc:Ignorable="d" Title="Rich Text Editor" Height="450" Width="800" 
     xmlns:dx="http://schemas.devexpress.com/winfx/2008/xaml/core" 
     xmlns:dxre="http://schemas.devexpress.com/winfx/2008/xaml/richedit" 
     xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" 

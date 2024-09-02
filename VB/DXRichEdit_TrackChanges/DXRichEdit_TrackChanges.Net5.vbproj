@@ -1,10 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Project Sdk="Microsoft.NET.Sdk">
   <PropertyGroup>
     <OptionInfer>On</OptionInfer>
     <TargetFramework>net5.0-windows</TargetFramework>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>
-    </RootNamespace>
+    <RootNamespace></RootNamespace>
     <AssemblyName>DXRichEdit_TrackChanges</AssemblyName>
     <GenerateAssemblyInfo>false</GenerateAssemblyInfo>
     <UseWindowsForms>true</UseWindowsForms>
@@ -22,21 +22,21 @@
     </None>
   </ItemGroup>
   <ItemGroup>
-    <PackageReference Include="DevExpress.Data" Version="21.1.*-*" />
-    <PackageReference Include="DevExpress.Data.Desktop" Version="21.1.*-*" />
-    <PackageReference Include="DevExpress.Images" Version="21.1.*-*" />
-    <PackageReference Include="DevExpress.Mvvm" Version="21.1.*-*" />
-    <PackageReference Include="DevExpress.Office.Core" Version="21.1.*-*" />
-    <PackageReference Include="DevExpress.Pdf.Core" Version="21.1.*-*" />
-    <PackageReference Include="DevExpress.Printing.Core" Version="21.1.*-*" />
-    <PackageReference Include="DevExpress.RichEdit.Core" Version="21.1.*-*" />
-    <PackageReference Include="DevExpress.Wpf.Core" Version="21.1.*-*" />
-    <PackageReference Include="DevExpress.Wpf.Docking" Version="21.1.*-*" />
-    <PackageReference Include="DevExpress.Wpf.Office" Version="21.1.*-*" />
-    <PackageReference Include="DevExpress.Wpf.Printing" Version="21.1.*-*" />
-    <PackageReference Include="DevExpress.Wpf.Ribbon" Version="21.1.*-*" />
-    <PackageReference Include="DevExpress.Wpf.RichEdit" Version="21.1.*-*" />
-    <PackageReference Include="DevExpress.Wpf.Themes.Office2019Colorful" Version="21.1.*-*" />
-    <PackageReference Include="DevExpress.Wpf.Themes.All" Version="21.1.*-*" />
+    <PackageReference Include="DevExpress.Data" Version="24.2.*-*" />
+    <PackageReference Include="DevExpress.Data.Desktop" Version="24.2.*-*" />
+    <PackageReference Include="DevExpress.Images" Version="24.2.*-*" />
+    <PackageReference Include="DevExpress.Mvvm" Version="24.2.*-*" />
+    <PackageReference Include="DevExpress.Office.Core" Version="24.2.*-*" />
+    <PackageReference Include="DevExpress.Pdf.Core" Version="24.2.*-*" />
+    <PackageReference Include="DevExpress.Printing.Core" Version="24.2.*-*" />
+    <PackageReference Include="DevExpress.RichEdit.Core" Version="24.2.*-*" />
+    <PackageReference Include="DevExpress.Wpf.Core" Version="24.2.*-*" />
+    <PackageReference Include="DevExpress.Wpf.Docking" Version="24.2.*-*" />
+    <PackageReference Include="DevExpress.Wpf.Office" Version="24.2.*-*" />
+    <PackageReference Include="DevExpress.Wpf.Printing" Version="24.2.*-*" />
+    <PackageReference Include="DevExpress.Wpf.Ribbon" Version="24.2.*-*" />
+    <PackageReference Include="DevExpress.Wpf.RichEdit" Version="24.2.*-*" />
+    <PackageReference Include="DevExpress.Wpf.Themes.Office2019Colorful" Version="24.2.*-*" />
+    <PackageReference Include="DevExpress.Wpf.Themes.All" Version="24.2.*-*" />
   </ItemGroup>
 </Project>
